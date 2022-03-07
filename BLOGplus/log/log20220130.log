@@ -1,0 +1,1 @@
+time="2022-01-30 16:40:12" level=info Agent=PostmanRuntime/7.29.0 DataSize=192 HostName=LAPTOP-N4MAGF8E Ip=127.0.0.1 Method=POST Path="/api/v1/login?username" SpendTime="138 ms" status=200
